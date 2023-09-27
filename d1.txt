@@ -1,1 +1,2 @@
 "This is my first file in a repository"
+"This second line is for step 3"
